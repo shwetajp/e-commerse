@@ -18,7 +18,7 @@ const Navbar = () => {
     <>
       <div className="head">
         <div className=" shoplane-logo">
-          <h1 className="shop-logo">SHOPp</h1>
+          <h1 className="shop-logo">SHOP</h1>
           <h1 className="lane-logo">LANE</h1>
         </div>
         <div className="form-inline my-2 my-lg-0">
